@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Second Hi!");
         System.out.println("change LocalRepository");
-        System.out.println("메인 작업 제개");
+        System.out.println("메인 계속해서 작업 제개");
     }
 }
