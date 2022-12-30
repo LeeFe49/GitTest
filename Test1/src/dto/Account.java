@@ -5,10 +5,13 @@ public class Account {
     private String password;
     private int age;
 
-    Account(String name, String password, int age) {
+    public Account(String name, String password, int age) {
         this.name = name;
         this.password = password;
         this.age = age;
     }
 
+    public Account() {
+
+    }
 }
