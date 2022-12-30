@@ -5,4 +5,8 @@ public class Main {
         System.out.println("change LocalRepository");
         System.out.println("메인 계속해서 작업 제개");
     }
+
+    public void Hi() {
+        System.out.println("new Func");
+    }
 }
